@@ -43,7 +43,8 @@ const Navbar = () => {
                     </ul>
                 </div>
                 <div class="navbar-end">
-                    <a class="btn btn-primary btn-sm">Download Resume</a>
+
+                    <a class="btn btn-primary btn-sm" href='https://drive.google.com/file/d/1ueI1bIIvVsf8-6M72b-TIUwFuS52AL6i/view?usp=drivesdk' target='_blank'>Download Resume</a>
                 </div>
             </div>
 
