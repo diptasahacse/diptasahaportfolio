@@ -14,7 +14,7 @@ const Projects = () => {
 
             <div>
                 <h4 className='font-bold text-6xl text-center'>My Latest Project</h4>
-                <p className='text-center mt-3'>There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration.</p>
+                <p className='text-center mt-3'>These all are my leatest projects</p>
             </div>
 
             <div className='mt-5 grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 py-4'>

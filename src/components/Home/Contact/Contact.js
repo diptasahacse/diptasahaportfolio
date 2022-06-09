@@ -82,8 +82,8 @@ const Contact = () => {
                     </div>
                 </div>
                 <div className='flex justify-center items-center'>
-                    <div>
-                        <img src={dipta} class="max-w-sm rounded-lg shadow-2xl" />
+                    <div className='flex justify-center'>
+                        <img src={dipta} class="lg:max-w-sm rounded-lg shadow-2xl" />
                     </div>
                 </div>
 

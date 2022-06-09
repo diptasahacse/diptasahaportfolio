@@ -11,7 +11,7 @@ const ProjectCard = ({ project }) => {
                 <div class="mt-5">
                     <div className='flex justify-between'>
                         <a class="btn btn-primary btn-sm" href={live} target='_blank'>Live</a>
-                        <button class="btn btn-primary btn-sm">Details</button>
+                        <button disabled class="btn btn-primary btn-sm">Details</button>
                     </div>
                 </div>
             </div>
