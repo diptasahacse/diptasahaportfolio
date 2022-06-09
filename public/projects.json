@@ -2,6 +2,7 @@
     {
         "id": 1,
         "name": "TOOLS MANUFACTURER WEBSITE",
+        "live": "https://manufacturer-website-11d73.web.app/",
         "img": "https://i.ibb.co/VYhh93J/banner.jpg",
         "shortDes": "This website is about the manufacturer website, where customers can purchase tools with Stripe (Payment System) and Admin can control all the things.",
         "des": "This website is about the manufacturer website, where customers can purchase tools with Stripe (Payment System) and Admin can control all the things."
@@ -10,7 +11,8 @@
     {
         "id": 2,
         "name": "INVENTORY MANAGEMENT",
-        "img": "https://i.ibb.co/VYhh93J/banner.jpg",
+        "img": "https://i.ibb.co/6F6Cd2Z/banner1.jpg",
+        "live": "https://snazzy-mooncake-ea1534.netlify.app/",
         "shortDes": "This website is about the manufacturer website, where customers can purchase tools with Stripe (Payment System) and Admin can control all the things.",
         "des": "This website is about the manufacturer website, where customers can purchase tools with Stripe (Payment System) and Admin can control all the things."
         
@@ -18,7 +20,8 @@
     {
         "id": 3,
         "name": "INDEPENDENT SERVICE PROVIDER",
-        "img": "https://i.ibb.co/VYhh93J/banner.jpg",
+        "img": "https://i.ibb.co/Mfhn2KB/service1.jpg",
+        "live": "https://independent-service-prov-d625d.web.app/",
         "shortDes": "This website is about the manufacturer website, where customers can purchase tools with Stripe (Payment System) and Admin can control all the things.",
         "des": "This website is about the manufacturer website, where customers can purchase tools with Stripe (Payment System) and Admin can control all the things."
         
