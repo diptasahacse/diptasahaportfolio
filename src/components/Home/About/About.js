@@ -12,7 +12,7 @@ const About = () => {
             <div class="hero-content flex-col lg:flex-row">
                 <img src={dipta} class="max-w-sm rounded-lg shadow-2xl" />
                 <div>
-                    <h1 class="text-5xl font-bold">About Me</h1>
+                    <h1 class="font-bold text-6xl">About Me</h1>
                     <p class="py-6">Ability to create innovative, creative, & interactive web designs to boost customer engagement. Sound knowledge in HTML5, CSS3, Git, Javascript, ES6, React.js, Node, Express, Mongodb & other UI frameworks like Bootstrap, Tailwindcss. Build reusable code for future use while optimizing web performance.</p>
                     <div>
                         <div class="tabs">

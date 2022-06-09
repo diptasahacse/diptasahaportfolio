@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "TOOLS MANUFACTURER WEBSITE",
+        "img": "https://i.ibb.co/VYhh93J/banner.jpg",
+        "shortDes": "This website is about the manufacturer website, where customers can purchase tools with Stripe (Payment System) and Admin can control all the things.",
+        "des": "This website is about the manufacturer website, where customers can purchase tools with Stripe (Payment System) and Admin can control all the things."
+        
+    },
+    {
+        "id": 2,
+        "name": "INVENTORY MANAGEMENT",
+        "img": "https://i.ibb.co/VYhh93J/banner.jpg",
+        "shortDes": "This website is about the manufacturer website, where customers can purchase tools with Stripe (Payment System) and Admin can control all the things.",
+        "des": "This website is about the manufacturer website, where customers can purchase tools with Stripe (Payment System) and Admin can control all the things."
+        
+    },
+    {
+        "id": 3,
+        "name": "INDEPENDENT SERVICE PROVIDER",
+        "img": "https://i.ibb.co/VYhh93J/banner.jpg",
+        "shortDes": "This website is about the manufacturer website, where customers can purchase tools with Stripe (Payment System) and Admin can control all the things.",
+        "des": "This website is about the manufacturer website, where customers can purchase tools with Stripe (Payment System) and Admin can control all the things."
+        
+    }
+]
