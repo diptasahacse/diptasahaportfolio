@@ -1,14 +1,10 @@
 import React, { useEffect, useState } from 'react';
+import useProjects from '../../../hooks/useProjects';
 import ProjectCard from './ProjectCard/ProjectCard';
 
 const Projects = () => {
-    const [allProjects, setAllProjects] = useState([]);
-    useEffect(() => {
-        fetch('projects.json')
-            .then(res => res.json())
-            .then(data => setAllProjects(data))
-    }, [])
-    console.log(allProjects)
+
+    const [allProjects] = useProjects()
     return (
         <div className='max-w-7xl mx-auto py-12 px-5'>
 

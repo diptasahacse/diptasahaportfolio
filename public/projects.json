@@ -15,13 +15,28 @@
             "Mongodb"
         ],
         "img": "https://i.ibb.co/VYhh93J/banner.jpg",
+        "imgArray": [
+            "https://i.ibb.co/zWckSKm/IMG-20220610-WA0004.jpg",
+            "https://i.ibb.co/7gKC3MH/IMG-20220610-WA0005.jpg",
+            "https://i.ibb.co/yyc2N3z/IMG-20220610-WA0007.jpg",
+            "https://i.ibb.co/R9H5MTK/IMG-20220610-WA0008.jpg"
+        ],
         "shortDes": "This website is about the manufacturer website, where customers can purchase tools with Stripe (Payment System) and Admin can control all the things.",
-        "des": "This website is about the manufacturer website, where customers can purchase tools with Stripe (Payment System) and Admin can control all the things."
+        "des": [
+            "Different UI and profile for Customer and Admin.",
+            "Customers can order any tools and can cancel any non-paid orders, add, pay with the Stripe payment system, and review on his/her particular paid order.",
+            "An admin can control all the things like Add Products, Manage Products, Manage All Orders, Manage Admin."
+        ]
     },
     {
         "id": 2,
         "name": "INVENTORY MANAGEMENT",
         "img": "https://i.ibb.co/6F6Cd2Z/banner1.jpg",
+        "imgArray": [
+            "https://i.ibb.co/FstMjNw/IMG-20220610-WA0010.jpg",
+            "https://i.ibb.co/hgcbz6d/IMG-20220610-WA0011.jpg",
+            "https://i.ibb.co/DrQpRLH/IMG-20220610-WA0009.jpg"
+        ],
         "live": "https://snazzy-mooncake-ea1534.netlify.app/",
         "technology": [
             "React",
@@ -32,7 +47,10 @@
             "Mongodb"
         ],
         "shortDes": "This website is about Inventory website where an authentic user can add or manage his/her products.",
-        "des": "This website is about the manufacturer website, where customers can purchase tools with Stripe (Payment System) and Admin can control all the things."
+        "des": [
+            "Logged In user can add or manage his products from My Items.",
+            "Logged-in users can Manage other users' products."
+        ]
     },
     {
         "id": 3,
@@ -44,7 +62,13 @@
             "Firebase"
         ],
         "live": "https://independent-service-prov-d625d.web.app/",
+        "imgArray": [
+            "https://i.ibb.co/1KhcRJy/IMG-20220610-WA0012.jpg",
+            "https://i.ibb.co/BNj2Vdv/IMG-20220610-WA0013.jpg"
+        ],
         "shortDes": "This website is a photography website where a customer Book a particular service.",
-        "des": "This website is about the manufacturer website, where customers can purchase tools with Stripe (Payment System) and Admin can control all the things."
+        "des": [
+            "Logged In users can Book a particular service."
+        ]
     }
 ]
