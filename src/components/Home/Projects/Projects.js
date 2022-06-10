@@ -6,7 +6,7 @@ const Projects = () => {
 
     const [allProjects] = useProjects()
     return (
-        <div className='max-w-7xl mx-auto py-12 px-5'>
+        <div className='max-w-7xl mx-auto py-12 px-5' id='all-projects'>
 
             <div>
                 <h4 className='font-bold text-6xl text-center'>My Latest Project</h4>

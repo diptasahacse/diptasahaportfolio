@@ -12,6 +12,12 @@ const Navbar = () => {
                         </label>
                         <ul tabIndex="0" className="menu menu-compact dropdown-content mt-3 p-2 shadow bg-base-100 rounded-box w-52">
                             <li><Link to='/'>Home</Link></li>
+                            <li> <a href='#about-me'>About</a> </li>
+                            <li> <a href='#all-projects'>Projects</a> </li>
+                            <li> <a href='#all-services'>Services</a> </li>
+                            <li> <a href='#contact'>Contact</a> </li>
+                            <li><Link to='/blog'>Blog</Link></li>
+                            
                             <a className="btn btn-primary btn-sm" href='https://drive.google.com/uc?export=download&id=1ueI1bIIvVsf8-6M72b-TIUwFuS52AL6i' target='_blank'>Download Resume</a>
                         </ul>
 
@@ -22,6 +28,11 @@ const Navbar = () => {
                 <div className="navbar-end hidden lg:flex">
                     <ul className="menu menu-horizontal p-0">
                         <li><Link to='/'>Home</Link></li>
+                        <li> <a href='#about-me'>About</a> </li>
+                        <li> <a href='#all-projects'>Projects</a> </li>
+                        <li> <a href='#all-services'>Services</a> </li>
+                        <li> <a href='#contact'>Contact</a> </li>
+                        <li><Link to='/blog'>Blog</Link></li>
 
                     </ul>
                     <a className="btn btn-primary btn-sm" href='https://drive.google.com/uc?export=download&id=1ueI1bIIvVsf8-6M72b-TIUwFuS52AL6i' target='_blank'>Download Resume</a>

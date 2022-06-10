@@ -39,7 +39,7 @@ const Contact = () => {
 
     }
     return (
-        <div className='max-w-7xl mx-auto py-12 px-5'>
+        <div className='max-w-7xl mx-auto py-12 px-5' id='contact'>
             <div className='grid grid-cols-1 lg:grid-cols-2 gap-4'>
                 <div>
                     <h4 className='font-bold text-6xl'>Contact Me</h4>

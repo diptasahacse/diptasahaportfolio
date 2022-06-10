@@ -8,14 +8,14 @@ import AboutSkill from './AboutSkill/AboutSkill';
 const About = () => {
     const [tabState, setTabState] = useState("")
     return (
-        <div className="hero min-h-screen bg-base-200">
+        <div id='about-me' className="hero min-h-screen bg-base-200">
             <div className="hero-content flex-col lg:flex-row">
                 <div className='flex justify-center'>
                     <img src={dipta} className="lg:max-w-sm rounded-lg shadow-2xl" />
                 </div>
                 <div>
                     <h1 className="font-bold text-6xl">About Me</h1>
-                    <p className="py-6">Ability to create innovative, creative, & interactive web designs to boost customer engagement. Sound knowledge in HTML5, CSS3, Git, Javascript, ES6, React.js, Node, Express, Mongodb & other UI frameworks like Bootstrap, Tailwindcss. Build reusable code for future use while optimizing web performance.</p>
+                    <p className="py-6">Hello, I'm Dipta Saha. From Bangladesh. I'm a React Developer. My sound knowledge in HTML5, CSS3, Git, Javascript, ES6, React.js, Node, Express, Mongodb & other UI frameworks like Bootstrap, Tailwindcss. Build reusable code for future use while optimizing web performance.</p>
                     <div>
                         <div className="tabs">
                             <button onClick={() => { setTabState('skills') }} className={`tab tab-bordered ${tabState === '' || tabState === 'skills' ? "tab-active" : ''}`}>Skills</button>
