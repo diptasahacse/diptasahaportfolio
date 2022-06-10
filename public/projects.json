@@ -14,6 +14,8 @@
             "Stripe",
             "Mongodb"
         ],
+        "client":"https://github.com/diptasahacse/manufacturer-website-client-side",
+        "server":"https://github.com/diptasahacse/manufacturer-website-server-side",
         "img": "https://i.ibb.co/VYhh93J/banner.jpg",
         "imgArray": [
             "https://i.ibb.co/zWckSKm/IMG-20220610-WA0004.jpg",
@@ -32,6 +34,8 @@
         "id": 2,
         "name": "INVENTORY MANAGEMENT",
         "img": "https://i.ibb.co/6F6Cd2Z/banner1.jpg",
+        "client":"https://github.com/diptasahacse/warehouse-management-client-side",
+        "server":"https://github.com/diptasahacse/warehouse-management-server-side",
         "imgArray": [
             "https://i.ibb.co/FstMjNw/IMG-20220610-WA0010.jpg",
             "https://i.ibb.co/hgcbz6d/IMG-20220610-WA0011.jpg",
@@ -56,6 +60,7 @@
         "id": 3,
         "name": "INDEPENDENT SERVICE PROVIDER",
         "img": "https://i.ibb.co/Mfhn2KB/service1.jpg",
+        "client":"https://github.com/diptasahacse/independent-service-provider",
         "technology": [
             "React",
             "Bootstrap",

@@ -37,6 +37,14 @@ const ProjectDetails = () => {
                 projectDetails?.technology.map((tech, index) => <div key={index} class={`badge m-1 ${index % 2 === 0 ? "bg-green-800" : "bg-blue-800"} border-0 text-white`}>{tech}</div>)
               }
             </div>
+            <h4 className='text-2xl font-semibold text-primary'>All Link</h4>
+            <div className='mt-1 mb-5 flex justify-between'>
+              <a className='text-blue-800 underline' href={projectDetails?.live} target="_blank">Live Site</a>
+              <a className='text-blue-800 underline' href={projectDetails?.client} target="_blank">Client Site</a>
+              {
+                projectDetails?.server && <a className='text-blue-800 underline' href={projectDetails?.server} target="_blank">Server Site</a>
+              }
+            </div>
 
           </div>
         </div>
