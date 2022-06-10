@@ -22,3 +22,16 @@ code {
   display: inline-block;
   -webkit-text-fill-color: transparent;
 }
+.custom-background{
+  transition: 0.3s;
+  background-color: #f6f6f6;
+}
+.custom-background:hover{
+  background-image: linear-gradient(189deg, #f9004d, #ee1275);
+  cursor: pointer;
+  color: white;
+}
+.custom-background:hover span{
+  color: white;
+
+}
