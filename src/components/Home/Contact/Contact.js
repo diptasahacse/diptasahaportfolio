@@ -1,5 +1,5 @@
 import React, { useRef } from 'react';
-import dipta from '../../../images/dipta.jpeg'
+import dipta from '../../../images/dipta.jpg'
 import emailjs from 'emailjs-com';
 import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css';

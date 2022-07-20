@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import dipta from '../../../images/dipta.jpeg'
+import dipta from '../../../images/dipta.jpg'
 import AboutAchievements from './AboutAchievements/AboutAchievements';
 import AboutCertifications from './AboutCertifications/AboutCertifications';
 import AboutEducation from './AboutEducation/AboutEducation';
